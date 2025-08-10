@@ -1,6 +1,4 @@
-Here’s the **correctly formatted** `README.md` for the content you gave, so you can just copy and paste into your GitHub repository:
 
-````markdown
 ## 🚀 Steps to Run
 
 **1. Clone the repository**
